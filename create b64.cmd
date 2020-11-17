@@ -1,0 +1,1 @@
+certutil -encode getKey.exe getKey.exe.txt
